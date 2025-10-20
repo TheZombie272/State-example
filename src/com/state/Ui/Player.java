@@ -1,7 +1,7 @@
-package refactoring_guru.state.example.ui;
+package com.state.Ui;
 
-import refactoring_guru.state.example.states.ReadyState;
-import refactoring_guru.state.example.states.State;
+import com.state.States.ReadyState;
+import com.state.States.State;
 
 import java.util.ArrayList;
 import java.util.List;

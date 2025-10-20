@@ -1,6 +1,6 @@
-package refactoring_guru.state.example.states;
+package com.state.States;
 
-import refactoring_guru.state.example.ui.Player;
+import com.state.Ui.Player;
 
 /**
  * Concrete states provide the special implementation for all interface methods.
